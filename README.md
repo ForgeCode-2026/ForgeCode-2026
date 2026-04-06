@@ -11,8 +11,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 I'm a **self-taught fullstack developer** from **Bavaria, Germany**
-- 💼 Working as **Office Management**
+- 🧑‍💻 I'm a **self-taught fullstack developer** from **Germany**
 - 💡 Available for **Orders, Freelance Projects & Cooperations**
 - 📩 Feel free to contact me via **Discord** for business inquiries or collaborations!
 
